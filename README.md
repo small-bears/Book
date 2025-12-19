@@ -1,31 +1,55 @@
-# Book
-基于Springboot Vue二手书交易管理系统
+
+### 联系方式（微信扫一扫）:
+<img width="444" height="560" alt="2fc79856-4bde-42f0-a5ea-83281867fbbe" src="https://github.com/user-attachments/assets/3eaeeaef-8fda-4c05-9f80-9e5361650c4a" />
+
+### 计算机毕设定制（直接点击链接）：https://www.yuque.com/techninja/code/xrpvpxbu3y8fa3ey?singleDoc#
+## 一、获取地址:
+
+#### 项目获取地址：https://www.666bear.com/12093.html
+
+**博主介绍：✌全网粉丝30W+,csdn特邀作者、Java领域优质创作者、csdn/掘金/哔哩哔哩/知乎/道客/小红书等平台优质作者，计算机毕设实战导师，目前专注于大学生项目实战开发,讲解,毕业答疑辅导✌工作室接计算机毕业设计程序开发、论文代写、代码讲解、出售成品源码等毕设服务，专业靠谱~**
+
+#### 作者QQ：3289948684 微信：bysj7626 (支持修改、 部署调试、 代做接毕业设计和课程设计)
+
+#### 接网站建设、小程序、H5、APP、各种系统、样式修改等
+
+#### 选题+开题报告+任务书+程序定制+安装调试+论文+答辩ppt 都可以做
+
+#### 有需求尽管甩过来！一条龙帮你安心过！
+
+#### 所有项目以及源代码本人均调试运行无问题 可支持远程调试运行
+# hotel
+基于SpringBoot的农产品销售系统
 ## 一、 项目介绍
-基于SpringBoot Vue的校园二手书交易管理系统
 
-角色：管理员、卖家、用户
+基于SpringBoot的农产品销售系统
 
-管理员：管理员登录系统后，可以对首页、个人中心、用户管理、卖家用户管理、图书分类管理、二手图书管理、求购图书管理、求购回复管理、留言反馈、系统管理、订单管理等功能模块
+面向学生用户群体，包含前台用户模块、后台模块（管理员、商家）三部分，具体功能如下：
+1. 前台用户模块
+基础功能模块：首页、农产品信息、公告咨询
+个人中心功能：修改密码、聊天记录、地址管理、订单管理、我的优惠券、我的收藏
+2. 后台管理员模块
+全流程平台管理功能：首页、用户管理、农产品信息管理、订单管理、优惠券管理、系统管理、菜单管理
+3. 后台商家模块
+农产品销售运营功能：首页、农产品信息管理、订单管理、优惠价管理
+该网站聚焦用户群体的农产品消费场景，通过前台用户浏览选购农产品、管理个人订单与优惠；商家负责农产品信息与订单运营；管理员统筹平台资源与系统配置，实现农产品从信息展示到交易管理的轻量化数字化，适配校园场景的农产品销售需求。
 
-卖家：卖家用户登录系统后，可以对首页、个人中心、二手图书管理、求购图书管理、求购回复管理、订单管理等
+## 二、 视频演示（点击既可以看到）
 
-用户：用户登录系统后，可以对首页、个人中心、二手图书管理、求购图书管理、求购回复管理、订单管理
-## 二、 视频演示
-
-<p style="text-align: center;"><strong><span class="ne-text">建议点击这个</span><a style="color: #ff0000;" href="https://www.bilibili.com/video/BV1pV4y197fb/?spm_id_from=333.999.0.0&vd_source=b5789de9f485ad6d0cfaeca1ad4b230c">“链接”</a>查看高清视频</strong></p>
+https://www.bilibili.com/video/BV1rFyYBqEhA/?spm_id_from=333.1387.search.video_card.click&vd_source=e51e8ec2fb03314ad9fa517492a2ce94
 
 
 ## 三、项目技术
+
 后端： SpringBoot+Mybaits
 
-前端：Vue +ElementUI +Layui +HTML+CSS+JS
+前端：Layui +HTML+Vue +ELementUI 
 
- 
+
 
 ## 四、 运行环境
-开发语言：Java
 
-项目架构：B/S架构
+开发语言：Java
 
 开发工具：IDEA，Eclipse,Myeclipse都可以。推荐IDEA
 
@@ -34,11 +58,8 @@ JDK版本：1.8
 数据库: MySQL8.0版本以上
 
 项目管理：Maven
-## 五、运行截图（点图片可放大）
-![1678873786599](https://user-images.githubusercontent.com/124327024/235059144-93ba64bb-5e5e-4d73-8eb1-77cba3b4bc5c.jpg)
-![1678873799182](https://user-images.githubusercontent.com/124327024/235059152-4126dc2b-37c6-4999-95bb-7a64cf1d1133.jpg)
-![1678873864730](https://user-images.githubusercontent.com/124327024/235059156-0bda9f23-4b54-4169-949c-8d7df7986802.jpg)
-![1678873680986](https://user-images.githubusercontent.com/124327024/235059160-f866d11e-ff1f-4325-a5e5-7e4643a3ab31.jpg)
-![1678873729702](https://user-images.githubusercontent.com/124327024/235059162-bbf4f04d-e1f0-4036-8d01-5b6296023ed5.jpg)
-![1678873744111](https://user-images.githubusercontent.com/124327024/235059165-7e6ca1e0-fa19-4e2c-86ea-0a88356139f6.jpg)
-![1678873767834](https://user-images.githubusercontent.com/124327024/235059170-23093c33-a2a5-4a69-b857-fbc14ecf9dab.jpg)
+## 五、 运行截图（点图片可放大）
+
+
+https://www.bilibili.com/video/BV1rFyYBqEhA/?spm_id_from=333.1387.search.video_card.click&vd_source=e51e8ec2fb03314ad9fa517492a2ce94
+
